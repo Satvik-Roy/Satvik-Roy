@@ -19,7 +19,7 @@ I'm a **2nd-year BTech student in Computer Science (AI & ML)** at **SRM Institut
   <a href="mailto:roysatvik2507@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" />
   </a>
-  <a href="[https://linkedin.com/in/satvikroy](https://www.linkedin.com/in/satvik-roy-a9b673325/)" target="_blank">
+  <a href="[https://www.linkedin.com/in/satvik-roy-a9b673325](https://www.linkedin.com/in/satvik-roy-a9b673325/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://leetcode.com/Roy-Satvik" target="_blank">
