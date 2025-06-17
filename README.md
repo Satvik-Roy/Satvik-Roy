@@ -59,6 +59,3 @@ I'm a **2nd-year BTech student in Computer Science (AI & ML)** at **SRM Institut
 
 Thanks for visiting! Let’s collaborate on something groundbreaking in AI! 😎
 
-<div align="center">
-  <img src="https://github.com/Satvik-Roy/Satvik-Roy/blob/main/dist/github-snake.svg" alt="Contribution Snake"/>
-</div>
