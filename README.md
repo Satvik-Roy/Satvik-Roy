@@ -1,8 +1,4 @@
 <div align="center">
-  <img src="https://visitor-badge.laobiangao.eu/badge?page_id=Satvik-Roy.Satvik-Roy" alt="Profile Views" />
-</div>
-
-<div align="center">
   <img src="https://github.com/Satvik-Roy/Satvik-Roy/blob/main/banner.png" alt="Banner" width="100%"/>
 </div>
 
@@ -32,15 +28,23 @@ I'm a **2nd-year BTech student in Computer Science (AI & ML)** at **SRM Institut
   <a href="https://x.com/satvik_roy" target="_blank">
     <img src="https://img.shields.io/badge/X-satvik__roy-black?style=for-the-badge&logo=x&logoColor=white" />
   </a>
-  <a href="https://www.codechef.com/users/satvik_roy" target="_blank">
+  <a href="https://www.codechef.com/users/roy_satvik" target="_blank">
     <img src="https://img.shields.io/badge/CodeChef-satvik__roy-darkgreen?style=for-the-badge&logo=codechef&logoColor=white" />
   </a>
-  <a href="https://www.geeksforgeeks.org/user/satvikroy/" target="_blank">
+  <a href="https://www.geeksforgeeks.org/user/roysatv98r2/" target="_blank">
     <img src="https://img.shields.io/badge/GeeksforGeeks-satvikroy-green?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
   </a>
 </div>
 
 ---
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=satvik-roy&show_icons=true&locale=en&layout=compact" alt="satvik-roy" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=satvik-roy&show_icons=true&locale=en" alt="satvik-roy" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=satvik-roy&" alt="satvik-roy" /></p>
 
 ## 🛠️ Tech Stack
 <a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"></a>
@@ -68,7 +72,7 @@ I'm a **2nd-year BTech student in Computer Science (AI & ML)** at **SRM Institut
 - 📧 Email: [roysatvik2507@gmail.com](mailto:roysatvik2507@gmail.com)
 - 💼 LinkedIn: [https://www.linkedin.com/in/satvik-roy-a9b673325](https://www.linkedin.com/in/satvik-roy-a9b673325)
 - 🐦 X: [https://x.com/satvik_roy](https://x.com/satvik_roy)
-- 👨‍💻 CodeChef: [https://www.codechef.com/users/satvik_roy](https://www.codechef.com/users/satvik_roy)
-- 🖥️ GeeksforGeeks: [https://www.geeksforgeeks.org/user/satvikroy/](https://www.geeksforgeeks.org/user/satvikroy/)
+- 👨‍💻 CodeChef: [https://www.codechef.com/users/roy_satvik](https://www.codechef.com/users/roy_satvik)
+- 🖥️ GeeksforGeeks: [https://www.geeksforgeeks.org/user/roysatv98r2/](https://www.geeksforgeeks.org/user/roysatv98r2/)
 
 Thanks for visiting! Let’s collaborate on something groundbreaking in AI! 😎
