@@ -37,11 +37,11 @@ I'm a **2nd-year BTech student in Computer Science (AI & ML)** at **SRM Institut
 </div>
 
 ---
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=satvik-roy&label=Profile%20views&color=0e75b6&style=plastic" alt="satvik-roy" /> </p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=satvik-roy&show_icons=true&locale=en&layout=compact" alt="satvik-roy" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=satvik-roy&show_icons=true&locale=en" alt="satvik-roy" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=satvik-roy&" alt="satvik-roy" /></p>
 
 ## 🛠️ Tech Stack
 <a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"></a>
