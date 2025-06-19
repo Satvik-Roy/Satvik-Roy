@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Satvik-Roy/Satvik-Roy/blob/main/banner.png" alt="Banner" width="100%"/>
+  <img src="https://github.com/Satvik-Roy/Satvik-Roy/blob/main/41jdlsftty251.jpg" alt="Banner" width="100%"/>
 </div>
 
 # 👋 Hey, I'm Satvik Roy!
