@@ -1,6 +1,9 @@
 <div align="center">
-  <img src="https://github.com/Satvik-Roy/Satvik-Roy/blob/main/banner.png" alt="Banner" width="100%"/>
+  <img src="https://visitor-badge.laobiangao.eu/badge?page_id=Satvik-Roy.Satvik-Roy" alt="Profile Views" />
+</div>
 
+<div align="center">
+  <img src="https://github.com/Satvik-Roy/Satvik-Roy/blob/main/banner.png" alt="Banner" width="100%"/>
 </div>
 
 # 👋 Hey, I'm Satvik Roy!
@@ -17,31 +20,40 @@ I'm a **2nd-year BTech student in Computer Science (AI & ML)** at **SRM Institut
 - ⚡ Fun fact: I’m a sci-fi geek obsessed with decoding neural networks and futuristic tech!
 
 <div align="center">
-  <a href="mailto:roysatvik2507@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" />
+  <a href="mailto:roysatvik2507@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-roysatvik2507@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/satvik-roy-a9b673325" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-satvik--roy-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://leetcode.com/Roy-Satvik" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" />
+    <img src="https://img.shields.io/badge/LeetCode-Roy--Satvik-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
   <a href="https://x.com/satvik_roy" target="_blank">
-    <img src="https://img.shields.io/badge/X-Follow-black?style=for-the-badge&logo=x" />
+    <img src="https://img.shields.io/badge/X-satvik__roy-black?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="https://www.codechef.com/users/satvik_roy" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-satvik__roy-darkgreen?style=for-the-badge&logo=codechef&logoColor=white" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/satvikroy/" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-satvikroy-green?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
   </a>
 </div>
 
 ---
 
 ## 🛠️ Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+<a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"></a>
+<a href="https://www.java.com" target="_blank"><img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white"></a>
+<a href="https://isocpp.org" target="_blank"><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"></a>
+<a href="https://www.cprogramming.com" target="_blank"><img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"></a>
+<a href="https://www.tensorflow.org" target="_blank"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"></a>
+<a href="https://flask.palletsprojects.com" target="_blank"><img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"></a>
+<a href="https://git-scm.com" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"></a>
+<a href="https://www.docker.com" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"></a>
+<a href="https://pytorch.org" target="_blank"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"></a>
+<a href="https://www.mongodb.com" target="_blank"><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"></a>
+<a href="https://aws.amazon.com" target="_blank"><img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"></a>
 
 ---
 
@@ -56,6 +68,7 @@ I'm a **2nd-year BTech student in Computer Science (AI & ML)** at **SRM Institut
 - 📧 Email: [roysatvik2507@gmail.com](mailto:roysatvik2507@gmail.com)
 - 💼 LinkedIn: [https://www.linkedin.com/in/satvik-roy-a9b673325](https://www.linkedin.com/in/satvik-roy-a9b673325)
 - 🐦 X: [https://x.com/satvik_roy](https://x.com/satvik_roy)
+- 👨‍💻 CodeChef: [https://www.codechef.com/users/satvik_roy](https://www.codechef.com/users/satvik_roy)
+- 🖥️ GeeksforGeeks: [https://www.geeksforgeeks.org/user/satvikroy/](https://www.geeksforgeeks.org/user/satvikroy/)
 
 Thanks for visiting! Let’s collaborate on something groundbreaking in AI! 😎
-
