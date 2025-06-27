@@ -39,7 +39,7 @@ I'm a **2nd-year BTech student in Computer Science (AI & ML)** at **SRM Institut
 ---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satvik-roy&label=Profile%20views&color=0e75b6&style=plastic" alt="satvik-roy" /> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=satvik-roy&show_icons=true&locale=en&layout=compact" alt="satvik-roy" /></p>
+<p><img align="left" src="https://your-vercel-instance.vercel.app/api/top-langs?username=satvik-roy&show_icons=true&locale=en&layout=compact" alt="satvik-roy" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=satvik-roy&show_icons=true&locale=en" alt="satvik-roy" /></p>
 
