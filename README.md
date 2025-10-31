@@ -2,9 +2,9 @@
   <img src="https://github.com/Satvik-Roy/Satvik-Roy/blob/main/41jdlsftty251.jpg" alt="Banner" width="100%"/>
 </div>
 
-# 👋 Hey, I'm Satvik Roy!
+# I'm Satvik Roy!
 
-I'm a **2nd-year BTech student in Computer Science (AI & ML)** at **SRM Institute of Science and Technology, Kattankulathur**. I’m passionate about **artificial intelligence, machine learning, and system programming**, leveraging **Java, C, C++, and Python** to explore innovative solutions. Currently diving into **deep learning, computer vision, and distributed systems** to shape the future of intelligent tech. 🚀
+I'm a **Sophomore BTech student in Computer Science (AI & ML)** at **SRM Institute of Science and Technology, Kattankulathur**. I’m passionate about **artificial intelligence, machine learning, and system programming**, leveraging **Java, C, C++, and Python** to explore innovative solutions. Currently diving into **deep learning, computer vision, and distributed systems** to shape the future of intelligent tech. 🚀
 
 ---
 
