@@ -61,9 +61,8 @@ I'm a **Sophomore BTech student in Computer Science (AI & ML)** at **SRM Institu
 
 ## 🏆 Achievements
 - 🥇 Solved 200+ problems on LeetCode, mastering data structures and algorithms
-- 🌟 Contributed to an open-source NLP project during Hacktoberfest
-- 📜 Completed Coursera’s Deep Learning Specialization
-
+- 🌟 
+- 📜 
 ---
 
 ## 📬 Get in Touch
@@ -72,5 +71,3 @@ I'm a **Sophomore BTech student in Computer Science (AI & ML)** at **SRM Institu
 - 🐦 X: [https://x.com/satvik_roy](https://x.com/satvik_roy)
 - 👨‍💻 CodeChef: [https://www.codechef.com/users/roy_satvik](https://www.codechef.com/users/roy_satvik)
 - 🖥️ GeeksforGeeks: [https://www.geeksforgeeks.org/user/roysatv98r2/](https://www.geeksforgeeks.org/user/roysatv98r2/)
-
-Thanks for visiting! Let’s collaborate on something groundbreaking in AI! 😎
