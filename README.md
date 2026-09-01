@@ -2,18 +2,7 @@
   <img src="https://github.com/Satvik-Roy/Satvik-Roy/blob/main/41jdlsftty251.jpg" alt="Banner" width="100%"/>
 </div>
 
-# I'm Satvik Roy!
-
-I'm a **Sophomore BTech student in Computer Science (AI & ML)** at **SRM Institute of Science and Technology, Kattankulathur**. I’m passionate about **artificial intelligence, machine learning, and system programming**, leveraging **Java, C, C++, and Python** to explore innovative solutions. Currently diving into **deep learning, computer vision, and distributed systems** to shape the future of intelligent tech. 🚀
-
----
-
-## 🌟 About Me
-- 🎓 BTech in CSE with AI & ML at SRM KTR
-- 🔭 Exploring AI-driven applications and advanced algorithms
-- 🌱 Learning deep learning frameworks, cloud computing, and DSA
-- 💬 Ask me about AI/ML, data structures, or open-source contributions
-- ⚡ Fun fact: I’m a sci-fi geek obsessed with decoding neural networks and futuristic tech!
+# I'm Satvik Roy
 
 <div align="center">
   <a href="mailto:roysatvik2507@gmail.com" target="_blank">
@@ -40,10 +29,6 @@ I'm a **Sophomore BTech student in Computer Science (AI & ML)** at **SRM Institu
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satvik-roy&label=Profile%20views&color=0e75b6&style=plastic" alt="satvik-roy" /> </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=satvik-roy&show_icons=true&locale=en&layout=compact&cache_seconds=3600" alt="satvik-roy" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=satvik-roy&show_icons=true&locale=en" alt="satvik-roy" /></p>
-
 ## 🛠️ Tech Stack
 <a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"></a>
 <a href="https://www.java.com" target="_blank"><img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white"></a>
@@ -59,15 +44,10 @@ I'm a **Sophomore BTech student in Computer Science (AI & ML)** at **SRM Institu
 
 ---
 
-## 🏆 Achievements
-- 🥇 Solved 200+ problems on LeetCode, mastering data structures and algorithms
-- 🌟 
-- 📜 
----
 
 ## 📬 Get in Touch
 - 📧 Email: [roysatvik2507@gmail.com](mailto:roysatvik2507@gmail.com)
-- 💼 LinkedIn: [https://www.linkedin.com/in/satvik-roy-a9b673325](https://www.linkedin.com/in/satvik-roy-a9b673325)
+- 💼 LinkedIn: [https://www.linkedin.com/in/satvik-roy-a9b673325](https://www.linkedin.com/in/satvik-roy)
 - 🐦 X: [https://x.com/satvik_roy](https://x.com/satvik_roy)
 - 👨‍💻 CodeChef: [https://www.codechef.com/users/roy_satvik](https://www.codechef.com/users/roy_satvik)
 - 🖥️ GeeksforGeeks: [https://www.geeksforgeeks.org/user/roysatv98r2/](https://www.geeksforgeeks.org/user/roysatv98r2/)
