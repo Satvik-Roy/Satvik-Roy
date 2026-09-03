@@ -47,7 +47,7 @@
 
 ## 📬 Get in Touch
 - 📧 Email: [roysatvik2507@gmail.com](mailto:roysatvik2507@gmail.com)
-- 💼 LinkedIn: [https://www.linkedin.com/in/satvik-roy-a9b673325](https://www.linkedin.com/in/satvik-roy)
+- 💼 LinkedIn: [https://www.linkedin.com/in/satvik-roy](https://www.linkedin.com/in/satvik-roy)
 - 🐦 X: [https://x.com/satvik_roy](https://x.com/satvik_roy)
 - 👨‍💻 CodeChef: [https://www.codechef.com/users/roy_satvik](https://www.codechef.com/users/roy_satvik)
 - 🖥️ GeeksforGeeks: [https://www.geeksforgeeks.org/user/roysatv98r2/](https://www.geeksforgeeks.org/user/roysatv98r2/)
