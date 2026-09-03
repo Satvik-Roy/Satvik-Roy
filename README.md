@@ -47,7 +47,7 @@
 
 ## 📬 Get in Touch
 - 📧 Email: [roysatvik2507@gmail.com](mailto:roysatvik2507@gmail.com)
-- 💼 LinkedIn: [https://www.linkedin.com/in/satvik-roy](https://www.linkedin.com/in/satvik-roy)
-- 🐦 X: [https://x.com/satvik_roy](https://x.com/satvik_roy)
-- 👨‍💻 CodeChef: [https://www.codechef.com/users/roy_satvik](https://www.codechef.com/users/roy_satvik)
-- 🖥️ GeeksforGeeks: [https://www.geeksforgeeks.org/user/roysatv98r2/](https://www.geeksforgeeks.org/user/roysatv98r2/)
+- 💼 LinkedIn: [satvik-roy](https://www.linkedin.com/in/satvik-roy)
+- 🐦 X: [satvik_roy](https://x.com/satvik_roy)
+- 👨‍💻 CodeChef: [roy_satvik](https://www.codechef.com/users/roy_satvik)
+- 🖥️ GeeksforGeeks: [roysatv98r2/](https://www.geeksforgeeks.org/user/roysatv98r2/)
